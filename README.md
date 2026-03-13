@@ -41,7 +41,6 @@ Full Stack Developer with hands-on experience in developing responsive and scala
 
 **Infrastructure & Hosting**
 - Domain management and DNS configuration
-- Connecting domains to hosting servers and cloud deployments
 - Professional business email setup and management
 
 **Tools**
