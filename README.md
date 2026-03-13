@@ -39,15 +39,15 @@ Full Stack Developer with hands-on experience in developing responsive and scala
 - Cloudfare
 - Render
 
-**Infrastructure & Hosting**
-- Domain management and DNS configuration
-- Professional business email setup and management
-
 **Tools**
 - GitHub
 - Postman
 - Figma
 - 3DVista
+
+**Domain and Email Infrastructure**
+- Domain management and DNS configuration
+- Professional business email setup and management
 
 **Core Competencies**
 - Problem Solving
