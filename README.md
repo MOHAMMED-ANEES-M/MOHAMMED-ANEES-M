@@ -10,7 +10,7 @@ Full Stack Developer
 
 ## Summary
 
-Full Stack Developer with hands-on experience in developing responsive and scalable web applications. Experienced in building full-stack systems, integrating third-party services, and deploying production applications. Strong in problem solving, backend API development, and modern frontend design.
+Full Stack Developer with hands-on experience in developing responsive and scalable web applications. Experienced in building full-stack systems, integrating third-party services, and deploying production applications. Experienced in end-to-end project deployment including domain configuration, DNS management, hosting integration, and professional email setup. Strong in problem solving, backend API development, and modern frontend design.
 
 ---
 
@@ -40,7 +40,7 @@ Full Stack Developer with hands-on experience in developing responsive and scala
 - Render
 
 **Infrastructure & Hosting**
-- Domain purchase and DNS configuration
+- Domain management and DNS configuration
 - Connecting domains to hosting servers and cloud deployments
 - Professional business email setup and management
 
@@ -134,14 +134,6 @@ Developed and deployed multiple responsive business websites for clients.
 ### Deployment
 - Hosted on **Hostinger**
 - Deployed on **Vercel**
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-ANEES-M&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMED-ANEES-M&layout=compact)
 
 ---
 
