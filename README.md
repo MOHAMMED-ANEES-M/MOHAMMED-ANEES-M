@@ -74,7 +74,7 @@ A business platform built for managing wholesale distribution of medical equipme
 
 ---
 
-## Admission Management Platform
+## Cardea Healthcare - Admission Management Platform
 
 A centralized platform designed to manage student admissions across multiple branches.
 
@@ -88,7 +88,7 @@ A centralized platform designed to manage student admissions across multiple bra
   
 ---
 
-## Hotel Booking Platform – Nest Residency Calicut
+## Nest Residency Calicut - Hotel Booking Platform
 
 A full-stack booking platform built for hotel reservation and room management.
 
@@ -105,7 +105,7 @@ A full-stack booking platform built for hotel reservation and room management.
 
 ---
 
-## Work Management System
+## Elzonex - Work Management System
 
 A collaborative system for managing and tracking tasks within teams.
 
